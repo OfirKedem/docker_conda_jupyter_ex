@@ -1,0 +1,9 @@
+version: '2'
+
+services: 
+    condaJupy:
+        image: testjupy
+        ports: 
+            - 8888:8888
+        volumes:
+            - ${PWD}/notebooks:/home/jovyan/notebooks

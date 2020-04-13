@@ -1,0 +1,4 @@
+hi itmar,
+this is a mounted file (because it's in a mounted directory)
+it can be changed via the browser or your text editor of choise. 
+all saved changes will remain after the container will be deleted.
