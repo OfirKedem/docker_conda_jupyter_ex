@@ -2,7 +2,7 @@ version: '2'
 
 services: 
     condaJupy:
-        image: testjupy
+        image: ofirkedem/jupyter-conda-karnel:0.0
         ports: 
             - 8888:8888
         volumes:
